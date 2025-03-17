@@ -5,6 +5,6 @@ sqlalchemy
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
-google-auth-transport-requests>=2.16.0
+google-auth-transport-requests
 requests
 psycopg2-binary
