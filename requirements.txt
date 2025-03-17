@@ -1,0 +1,10 @@
+streamlit
+gspread
+pandas
+sqlalchemy
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-auth-transport-requests==2.17.0
+requests
+psycopg2-binary
