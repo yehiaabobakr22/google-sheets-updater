@@ -8,3 +8,4 @@ google-auth-httplib2
 google-auth-transport-requests
 requests
 psycopg2-binary
+json
