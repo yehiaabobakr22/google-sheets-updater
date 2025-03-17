@@ -1,3 +1,5 @@
+import os
+os.system("pip install gspread pandas sqlalchemy google-auth requests psycopg2-binary")
 import gspread
 import pandas as pd
 import streamlit as st
